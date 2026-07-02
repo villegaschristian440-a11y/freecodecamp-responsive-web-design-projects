@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+                <ul>
+                    <li><a href="#upcoming-events">Upcoming Events</a></li>
+                    <li><a href="#past-events">Past Events</a></li>
+        </nav>
+    </header>     
+    <main>             
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Spider-Man: Brand New Day</h3>
+                <p>An upcoming superhero film that follows Peter Parker as he begins a new chapter after the events of <em>Spider-Man: No Way Home.</em>
+                July 31, 2026</p>
+                <img src="https://tse4.mm.bing.net/th/id/OIP.ykNyzC9QdfZO4_1Yjg_9-QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Spider-Man: Brand New Day Movie Poster"
+                /> 
+            </article>
+            <article>
+                <h3>Avengers: Doomsday</h3>
+                <p>This Movie brings Earth's Mightiest Heroes together once again to face their greatest threat yet.
+                December 18, 2026</p>
+                  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e317a1c-f1ce-4a5f-90db-d88cc01db2d0/djyh7h2-d0dd3eb7-ade6-4245-ad14-f843b4cf7df2.png/v1/fill/w_1280,h_2027,q_80,strp/avengers_doomsday_poster_hd_2027_4k_by_mrandrew7w7_djyh7h2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAyNyIsInBhdGgiOiJcL2ZcLzJlMzE3YTFjLWYxY2UtNGE1Zi05MGRiLWQ4OGNjMDFkYjJkMFwvZGp5aDdoMi1kMGRkM2ViNy1hZGU2LTQyNDUtYWQxNC1mODQzYjRjZjdkZjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.F0tPUEt8UhfhosZKOzP0IZAPNtpsQKR-ZKR0RKiukQQ" alt="Avengers: Doomsday Movie Poster"
+                />    
+            </article>       
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Spider-Man: No Way Home</h3>
+                <p>Follows Peter Parker as he seeks help from Doctor Strange after his secret identity is revealed to the world.</p>
+                 <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/spider-man-no-way-home-poster.jpg" alt="Spider-Man: No Way Home Movie Poster"
+                />
+            </article>
+            <article>
+                <h3>Avengers: Endgame</h3>
+                <p>Avengers: Endgame follows the surviving Avengers as they embark on a daring mission to reverse the devastation caused by Thanos.</p>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/avengers_endgame_eng_p71_hd_2000x2818_961af0dc.png?region=0,0,2000,2818" alt="Avengers: Endgame Movie Poster"
+                /> 
+            </article> 
+        </section>                      
+    </main>         
+</body>
+
+</html>
